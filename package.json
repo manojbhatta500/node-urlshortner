@@ -1,0 +1,22 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "i": "^0.3.7",
+    "mongoose": "^8.2.3",
+    "nodemon": "^3.1.0",
+    "npm": "^10.5.0",
+    "short-unique-id": "^5.0.3"
+  }
+}
